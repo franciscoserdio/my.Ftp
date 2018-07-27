@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="my.Ftp.Credentials">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Credentials.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.Directory">
+    <Position X="15.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAQAAAAAAEAAEAIAAAAAAkAAAA=</HashCode>
+      <FileName>Directory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.DirectoryInfo">
+    <Position X="15.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCAAIIAAAAAQAQAAgAAQAAQAAAEAAMAKgAAAAgkAAAA=</HashCode>
+      <FileName>DirectoryInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.Downloader">
+    <Position X="7.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CEADACEAQCAEAAAFgAQACAIYAAAAEIAAAAAgAgAAIEA=</HashCode>
+      <FileName>Downloader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="my.Ftp.DownloaderData">
+    <Position X="6.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>DownloaderData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.DownloaderFile">
+    <Position X="9.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAEAAAAAAAAAAAAACAAAAAAIAAAEEAAAAAAAAAA=</HashCode>
+      <FileName>DownloaderFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.File">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAQAAEAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.FileInfo">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgYAAgAAAAAQQAAEAAIEAAAAAAgEAAAA=</HashCode>
+      <FileName>FileInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.FtpException" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtpException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.Server">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAUAAAAAAQACAAAAAACAQAAAAAAAAA=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.Uploader">
+    <Position X="2.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>QAACAAEAQCIAAQABAABAIIQQAAgEAAABAEAAAiQAZEA=</HashCode>
+      <FileName>Uploader.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="my.Ftp.UploaderData">
+    <Position X="1.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAAAAgAAAAAAAAICAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>UploaderData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="my.Ftp.UploaderFile">
+    <Position X="4" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAEAAAAAAAAAAAAAAIAAAAAAAAAFAAAAAAAAAAA=</HashCode>
+      <FileName>UploaderFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="my.Ftp.SearchOption">
+    <Position X="13.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYAQA=</HashCode>
+      <FileName>SearchOption.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

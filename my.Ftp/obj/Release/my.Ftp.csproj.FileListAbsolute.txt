@@ -1,0 +1,3 @@
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Release\my.Ftp.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Release\my.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll

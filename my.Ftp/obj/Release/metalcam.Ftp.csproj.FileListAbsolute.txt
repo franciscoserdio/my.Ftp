@@ -1,0 +1,9 @@
+D:\MetalCam Products\Fikus_Cloud\trunk\bin\Release\metalcam.Ftp.dll
+D:\MetalCam Products\Fikus_Cloud\trunk\bin\Release\metalcam.Ftp.pdb
+D:\MetalCam Products\Fikus_Cloud\trunk\src\metalcam.Ftp\obj\Release\metalcam.Ftp.dll
+D:\MetalCam Products\Fikus_Cloud\trunk\src\metalcam.Ftp\obj\Release\metalcam.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\bin\Release\metalcam.Ftp.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\bin\Release\metalcam.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\src\metalcam.Ftp\obj\Release\metalcam.Ftp.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\src\metalcam.Ftp\obj\Release\metalcam.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\src\metalcam.Ftp\obj\Release\metalcam.Ftp.csprojResolveAssemblyReference.cache

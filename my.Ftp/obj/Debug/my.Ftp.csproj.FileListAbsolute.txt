@@ -1,0 +1,10 @@
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Debug\my.Ftp.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Debug\my.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\my.Ftp.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\my.Ftp.pdb
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fran\Desktop\MetalCam Products\Fikus_Cloud\metalcam.Ftp\obj\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fran\Documents\Visual Studio 2015\Projects\my.Ftp\obj\Debug\my.Ftp.csprojResolveAssemblyReference.cache
+C:\Users\Fran\Documents\Visual Studio 2015\Projects\my.Ftp\obj\Debug\my.Ftp.dll
+C:\Users\Fran\Documents\Visual Studio 2015\Projects\my.Ftp\obj\Debug\my.Ftp.pdb
+C:\Users\Fran\Documents\Visual Studio 2015\Projects\my.Ftp\obj\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
